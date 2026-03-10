@@ -26,11 +26,17 @@ npm start
 
 ```
 painel-pedidos/
-├── server.js              ← Servidor Node.js + Express + WebSocket
+├── server.js
 ├── package.json
 ├── README.md
+├── controllers/
+    └── pedidoController.js
+├── models/
+    └── pedidoModel.js
+├── routes/
+    └── pedidoRoutes.js
 └── public/
-    └── index.html         ← Painel de pedidos (tempo real)
+    └── index.html
 ```
 
 ## Tecnologias
