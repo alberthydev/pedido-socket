@@ -18,8 +18,7 @@ npm start
 
 | Tela | URL |
 |------|-----|
-| Painel (caixa/cozinha) | http://localhost:3000/index.html |
-| Fazer pedido (cliente) | http://localhost:3000/novo-pedido.html |
+| Painel | http://localhost:3000/ |
 
 > **Dica:** Abra as duas URLs em abas separadas para ver o WebSocket em ação.
 
