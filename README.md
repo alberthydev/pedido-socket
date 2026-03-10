@@ -20,7 +20,7 @@ npm start
 |------|-----|
 | Painel | http://localhost:3000/ |
 
-> **Dica:** Abra as duas URLs em abas separadas para ver o WebSocket em ação.
+> **Dica:** Abra duas URLs em abas separadas para ver o WebSocket em ação com diversos clientes.
 
 ## Estrutura do projeto
 
@@ -30,8 +30,7 @@ painel-pedidos/
 ├── package.json
 ├── README.md
 └── public/
-    ├── index.html         ← Painel de pedidos (tempo real)
-    └── novo-pedido.html   ← Tela do cliente para fazer pedido
+    └── index.html         ← Painel de pedidos (tempo real)
 ```
 
 ## Tecnologias
