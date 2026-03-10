@@ -1,0 +1,13 @@
+{
+  "name": "painel-pedidos",
+  "version": "1.0.0",
+  "description": "Painel de pedidos em tempo real com WebSocket — padrão MVC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}
