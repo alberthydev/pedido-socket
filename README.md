@@ -49,7 +49,7 @@ painel-pedidos/
 
 - Pedidos aparecem instantaneamente no painel ao serem enviados
 - Múltiplos clientes podem fazer pedidos simultâneos
-- Status do pedido pode ser alterado: Pendente → Em Preparo → Pronto
+- Status do pedido pode ser alterado: Pendente -> Em Preparo -> Pronto
 - Contadores atualizados em tempo real
 - Reconexão automática se a conexão cair
 - Indicador visual de status de conexão (WebSocket)
