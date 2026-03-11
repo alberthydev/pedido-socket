@@ -20,7 +20,7 @@ npm start
 |------|-----|
 | Painel | http://localhost:3000/ |
 
-> **Dica:** Abra duas URLs em abas separadas para ver o como o WebSocket trabalha com diversos clientes.
+> **Dica:** Abra duas URLs em abas separadas para ver como o WebSocket trabalha com diversos clientes.
 
 ## Estrutura do projeto
 
