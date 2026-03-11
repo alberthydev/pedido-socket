@@ -30,11 +30,11 @@ painel-pedidos/
 ├── package.json
 ├── README.md
 ├── controllers/
-    └── pedidoController.js
+|   └── pedidoController.js
 ├── models/
-    └── pedidoModel.js
+|   └── pedidoModel.js
 ├── routes/
-    └── pedidoRoutes.js
+|   └── pedidoRoutes.js
 └── public/
     └── index.html
 ```
