@@ -1,4 +1,4 @@
-# Painel de Pedidos — WebSocket
+# Painel de Pedidos - WebSocket
 
 Aplicação web de painel de pedidos em tempo real usando WebSocket.
 
@@ -20,7 +20,7 @@ npm start
 |------|-----|
 | Painel | http://localhost:3000/ |
 
-> **Dica:** Abra duas URLs em abas separadas para ver o WebSocket em ação com diversos clientes.
+> **Dica:** Abra duas URLs em abas separadas para ver o como o WebSocket trabalha com diversos clientes.
 
 ## Estrutura do projeto
 
