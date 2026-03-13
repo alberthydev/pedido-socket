@@ -36,5 +36,5 @@ wss.on("connection", (ws) => {
 
 const PORTA = 3000;
 server.listen(PORTA, () => {
-  console.log(`\n🚀 Servidor rodando em http://localhost:${PORTA}\n`);
+  console.log(`\nServidor rodando em http://localhost:${PORTA}\n`);
 });
